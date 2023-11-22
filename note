@@ -1,0 +1,20 @@
+                        **--:Notes:--**
+
+        **Only one common CSS is created for all the profile pages**
+                  **One CSS for Home page with cards**
+                 ** Fully responsive for all the pages** 
+
+* Moving on with the Home page there i have put a background image to make page look more attractive and in navigation bar i have included a text as logo.
+* The logo itself ats as a button for the Home page.
+* In navigation bar to show active status of home page Home anchor tag is in active satus in coloured state.
+* The Profile achor is made to scale and change color when hovered and all the cards are being listed there with coloured hovering effect.
+* In the dropdown of profile there is hovering animation on different profiles.
+* The Logout achor tag is being disabled as mentioned.
+* The bacground of tha navigation is being kept transparent for more appeling look.
+* Moving on to card section the Cards have an effect of scale when hovered and colour get bright when hovered from greyscale to coloured.
+* The Read More button at the end connect the cards to there respective pages as on top the profile tags connect.
+
+* Moving on to the profile page of each cards the pictures are placed on left and text on right.
+* The hovering scale animation is provided here for making look a bit attractive.
+* In the navigation bar here the Home is not active and it is colored black and the profile tag is in active state with blue coloured.
+* In the dropdown of profile there is hovering animation on different profiles. But when on a profile which is opened it gets background color blue and on hovering it changes to show the current page status for ease purpose.
